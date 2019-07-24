@@ -2,7 +2,7 @@ To Do List
 
 1. Keen look to website musicbrainz.com
 
-2. Analysing the HTML code of musicbrainz
+2. Analyzing the HTML code of musicbrainz
 3. Making a crawler (for extracting ID, Name, Gender, Type, Genre, Birthday)
 
 4. Creating EM genrelist 
@@ -20,10 +20,10 @@ To Do List
 10. Normalizing the data(Country, years)
 11. Analysing the Final DataSet
 
-12.male femal percentage
+12.male female percentage
 gigs ratio of male/female
 album ratio of male/female
-Avg Price ratio male/female
+And Price ratio male/female
 
 13. Results with graphs
 
