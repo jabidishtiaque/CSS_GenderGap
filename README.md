@@ -5,6 +5,7 @@ Project Contributors--
 1. Md Tariqul Islam (tariquldipu@uni-koblenz.de)
 2. Muhammad Momotazul Islam (momotazulislam@uni-koblenz.de)
 3. Basitur Rahman Chowdhury (bchowdhury@uni-koblenz.de)
+4. Jabid Ishtiaque (jabidishtiaque@uni-koblenz.de)
 
 
 
